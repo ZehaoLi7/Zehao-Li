@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: breaking waves
+description: a statistical study of "whitecapping"
+img: assets/img/projects/breaking_paraview.png
 importance: 2
 category: work
 ---

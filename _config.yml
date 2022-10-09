@@ -29,7 +29,7 @@ repository: jiarong-wu/jiarong-wu.github.io
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -87,6 +87,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 blog_name: field notes  # your blog must have a name for it to show up in the nav bar
 blog_description: all things worth sharing
 permalink: /blog/:year/:title/
+# blog_nav_title: blog # serve as the sub-url of the blog pages. If not specified then the blog pages do not show
 
 # Pagination
 pagination:

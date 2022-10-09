@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: What I work on as a daytime (sometimes nighttime too) phd student and a stochastic explorer.
 nav: true
 nav_order: 2
 display_categories: [work, fun]

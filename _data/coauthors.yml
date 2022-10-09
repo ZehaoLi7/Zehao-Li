@@ -1,3 +1,11 @@
+"Popinet":
+  - firstname: ["Stéphane", "S."]
+    url: http://basilisk.fr/sandbox/popinet/README
+
+"Deike":
+  - firstname: ["Luc", "L."]
+    url: https://ldeike.princeton.edu
+
 "Adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams

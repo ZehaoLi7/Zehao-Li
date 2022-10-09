@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: numerical method
+description: an open-source PDE solver by Stéphane Popinet that I use frequently and help develop occasionally
+img: assets/img/projects/basilisk.png
+redirect: http://basilisk.fr/
 importance: 3
 category: work
 ---
